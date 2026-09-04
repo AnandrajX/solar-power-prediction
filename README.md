@@ -92,7 +92,7 @@ solar-power-prediction/
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/solar-power-prediction.git
+git clone https://github.com/AnandrajX/solar-power-prediction.git
 cd solar-power-prediction
 
 Install dependencies:
